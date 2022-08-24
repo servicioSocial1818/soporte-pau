@@ -19,4 +19,4 @@ Como instalar el sistema
 9.- Se puede tener acceso total de la base de datos desde el servidor, por si se hace algun mal uso del sistema (Borrar usuarios, administradores, etc)
 10.- Listo
 
-//twb1cS2j37 Contraseña del usuario Alex
+//twb1cS2j37 Contraseña del usuario Alex y para el usuario de github del serviciosocial
